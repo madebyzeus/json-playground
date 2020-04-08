@@ -3,4 +3,24 @@
 // Double Quotes = "Strings"
 // Data is separated by commas
 // {Curly Braces hold Objects}
-//  [Square Brackets hold Arrays]
+// [Square Brackets hold Arrays]
+// JSON Example
+{
+    "name": "John", // string value
+    "age": 20, // int value
+    "likeCats": true, //boolean value
+    "groceryList": [
+        "milk",
+        "eggs"
+    ]
+    "address": {
+        "street": "123 First St.",
+        "city": "Houston",
+        "state": "TX"
+    }
+}
+
+{
+    "name": "Peter",
+    "age": 18
+}
