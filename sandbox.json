@@ -3,12 +3,12 @@
     "lastName": "Parker",
     "age": 20,
     "likeCats": true,
-    "abilities": [
+    "abilities": {
         "wall crawling",
         "speed",
         "agility",
         "strength"
-    ]
+    }
     "address": {
         "street": "123 First St.",
         "city": "Queens",
