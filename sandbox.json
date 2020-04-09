@@ -1,14 +1,7 @@
-// JSON Data Types
-// Key / Value Pairs
-// Double Quotes = "Strings"
-// Data is separated by commas
-// {Curly Braces hold Objects}
-// [Square Brackets hold Arrays]
-// JSON Example
 {
-    "name": "John", // string value
-    "age": 20, // int value
-    "likeCats": true, //boolean value
+    "name": "John",
+    "age": 20,
+    "likeCats": true,
     "groceryList": [
         "milk",
         "eggs"
