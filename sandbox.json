@@ -1,19 +1,17 @@
 {
-    "name": "John",
+    "firstName": "Peter",
+    "lastName": "Parker",
     "age": 20,
     "likeCats": true,
-    "groceryList": [
-        "milk",
-        "eggs"
+    "abilities": [
+        "wall crawling",
+        "speed",
+        "agility",
+        "strength"
     ]
     "address": {
         "street": "123 First St.",
-        "city": "Houston",
-        "state": "TX"
+        "city": "Queens",
+        "state": "NY"
     }
-}
-
-{
-    "name": "Peter",
-    "age": 18
 }
