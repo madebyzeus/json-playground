@@ -9,9 +9,4 @@
         "agility",
         "strength"
     }
-    "address": {
-        "street": "123 First St.",
-        "city": "Queens",
-        "state": "NY"
-    }
 }
